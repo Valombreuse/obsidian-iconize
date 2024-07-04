@@ -19,3 +19,12 @@ to add a custom rule with the input `.`, so that it looks like this:
 
 After that, you can select the icon you want to use as a default icon. This icon will be
 used for all files and folders that don't have a custom icon.
+
+### Having a default icon for notes
+
+.md all.md files with use the selected icon
+
+### Having a default icon for a specific file format
+
+.[format extension]
+example : .png
